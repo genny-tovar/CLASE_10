@@ -1,0 +1,5 @@
+slice: para porcionar. Se usa en listas, tuplas
+
+url_for : es para redireccionar el decorador
+sqlite: son archivos
+show_all: 
